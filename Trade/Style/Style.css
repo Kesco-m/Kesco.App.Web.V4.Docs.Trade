@@ -1,0 +1,10 @@
+﻿.ctlMargMain{ margin: 0px 0px 2px 0px}
+.noWrap{ white-space: nowrap;}
+.inl { display: inline-table; }
+.al {vertical-align: bottom;}
+.wd { width: 150px; vertical-align: top;} 
+
+/*горизонтальные линии не показывать*/
+hr{ width: 50%;text-align: left; display: none }
+
+
